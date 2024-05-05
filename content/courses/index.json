@@ -1,0 +1,85 @@
+[
+  {
+    "id": "1410474",
+    "type": "CODING BOOK",
+    "title": "Cracking the Coding Interview",
+    "description": "A walk-through of how to derive each solution, so that you can learn how to get there yourself. - Hints on how to solve each of the 189 questions, just like what you would get in a real interview.",
+    "coverImage": "https://m.media-amazon.com/images/I/61mIq2iJUXL._SY466_.jpg",
+    "author": "Gayle Laakmann",
+    "link": "*",
+    "slug": "cracking-coding-interview",
+    "wsl": [
+      "189 programming interview questions",
+      "Hints on how to solve questions",
+      "Extensive coverage of essential topics"
+    ],
+    "createdAt": ""
+  },
+  {
+    "id": "1331625",
+    "type": "POWER BANK",
+    "title": "Xiaomi Power Bank",
+    "description": "The high capacity 20000mAh power bank allows you to simultaneously charge three devices at one go and does it way faster with the 18W fast charge support",
+    "coverImage": "https://m.media-amazon.com/images/S/aplus-media/vc/12fa4d84-ad37-4fb1-ac9c-7b0d28a3fb76.__CR0,0,300,300_PT0_SX300_V1___.jpg",
+    "author": "Xiaomi",
+    "link": "*",
+    "slug": "mi-power-bank",
+    "wsl": [
+      "Triple port output",
+"Dual input port (Micro-USB/USB-C, Charging Time : 6.9 hours",
+"Advanced 12 Layer chip protection"
+    ],
+    "createdAt": ""
+  },
+  {
+    "id": "1112431",
+    "type": "Smartwatch",
+    "title": "Fastrack Limitless Smartwatch",
+    "description": "SingleSync BT Calling | Favourite Contacts Storage | Quick Replies (Android) | Advanced Chipset for zero lags, faster processing and higher accuracy",
+    "coverImage": "https://m.media-amazon.com/images/I/61JtVmcxb0L._SX679_.jpg",
+    "author": "fastrack",
+    "link": "",
+    "slug": "fastrack-watch",
+    "wsl": [
+      "AI Voice Assistant",
+      "Long Battery Life",
+      "Water Resistant",
+      "Sports Mode"
+    ],
+    "createdAt": ""
+  },
+  {
+    "id": "985237",
+    "type": "Wardrobe",
+    "title": "Solimo Medusa Wardrobe",
+    "description": "Lockable drawer drawer for storing your valuables, personal items, documents and more.",
+    "coverImage": "https://m.media-amazon.com/images/I/419VkHp4yZL._SX300_SY300_QL70_FMwebp_.jpg",
+    "author": " ",
+    "link": "https://academy.eincode.com/courses/phaser-3-the-complete-guide-build-publish-games-in-js",
+    "slug": "solimo-wardrobe",
+    "wsl": [
+      "Included Components: 1 Wardrobe",
+"Dimensions: 75x45x183 Centimeters",
+"Two-door wardrobe with a drawer and multiple shelves for organising clothes and storage",
+"Multiple shelves, 1 drawer"
+    ],
+    "createdAt": ""
+  },
+  {
+    "id": "925927",
+    "type": "SHIRTS",
+    "title": "Lymio Casual Shirt for Men",
+    "description": "Men casual shirt || men shirt casual || men shirt casual stylish || men shirt casual stylish top quality cotton",
+    "coverImage": "https://m.media-amazon.com/images/S/aplus-media/sota/d12352de-5290-4535-9570-351dc91c0b66.__CR0,0,1500,1500_PT0_SX300_V1___.jpg",
+    "author": " ",
+    "link": "*",
+    "slug": "lymio-shirt",
+    "wsl": [
+      "Closure Type: Button; Collar Style: Printed",
+      "Top Quality Cotton",
+      "Stretch Fit",
+      "Durable and Washing Machine Friendly"
+    ],
+    "createdAt": ""
+  }
+]
